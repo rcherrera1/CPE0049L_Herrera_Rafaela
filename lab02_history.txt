@@ -1,0 +1,8 @@
+*   9a70a05 Merge pull request #1 from rcherrera1/feature-bio
+|\  
+| * f83bffc feat: added developer biography to readme
+|/  
+* 3b2c805 chore: initial project scaffolding and gitignore
+* 601c582 chore: initial project scaffolding and gitignore
+* f1070dd chore: initial project scaffolding and gitignore
+* e522b7e Initial commit
