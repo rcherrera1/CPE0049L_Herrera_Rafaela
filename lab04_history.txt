@@ -1,0 +1,3 @@
+fe69c41 Merge pull request #5 from rcherrera1/feature-user-profile
+9fe79ba feat: added basic profile logic. Resolves #3
+7ca9087 Merge pull request #2 from rcherrera1/feature-math-logic
